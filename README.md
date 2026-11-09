@@ -1,16 +1,13 @@
-## A Work in progress at the moment, soon will look nice
+```
+~/brazil/bh/cauaHomero $ ./start
+heyoo
+```
 
-<!--
-**cauahomero/cauahomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack dev, mobile first, at [dti digital](https://www.dtidigital.com.br), Software Engineering at PUC Minas. Heading towards software architecture.
 
-Here are some ideas to get you started:
+[![stack](https://skillicons.dev/icons?i=react,ts,cs,dotnet,py,fastapi,java)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[RoadMap](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-road-map)** · travel app with an offline-first Expo client, FastAPI + PostGIS backend and React web\
+**[Appdestrocter](https://github.com/cauahomero/Appdestrocter)** · Java desktop tool that closes an app after a set time, no AI on purpose
+
+[LinkedIn](https://www.linkedin.com/in/caua-homero/)
